@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb9144d2-5eeb-485f-a1d7-4bedafe1fab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWTSpk6sTOp0ipujGioh5qJsup" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb9144d2-5eeb-485f-a1d7-4bedafe1fab6" name="Default Changelist" comment="" />
+      <created>1579264353711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579264353711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1579264610122">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1579264610122" />
+    <state x="67" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579270606855">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1579270606855" />
+    <state x="200" y="115" width="544" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1579272460121">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="200" y="115" width="544" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579272460121" />
+    <state x="124" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579268802889">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="124" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1299.741@67.27.1299.741" timestamp="1579268802889" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579264526254">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579264526254" />
+    <state x="136" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1579268819694">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="136" y="27" width="500" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1579268819694" />
+  </component>
+</project>
